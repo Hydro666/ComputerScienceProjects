@@ -1,0 +1,889 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"description"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"no",
+				"nodots"
+			],
+			[
+				"as",
+				"as-list"
+			],
+			[
+				"bran",
+				"branches"
+			],
+			[
+				"aco",
+				"acorn_finder"
+			],
+			[
+				"is",
+				"is_balanced"
+			],
+			[
+				"to",
+				"torque"
+			],
+			[
+				"rever",
+				"reverse_iter"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"dige",
+				"digesting"
+			],
+			[
+				"time",
+				"time_to_digest"
+			],
+			[
+				"eat",
+				"eat_bee"
+			],
+			[
+				"tim",
+				"time_to_digest"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"Bod",
+				"BodyguardAnt"
+			],
+			[
+				"QUee",
+				"QueenAnt"
+			],
+			[
+				"quee",
+				"queens"
+			],
+			[
+				"et",
+				"entrance"
+			],
+			[
+				"Quee",
+				"QueenAnt"
+			],
+			[
+				"imo",
+				"imposter"
+			],
+			[
+				"ant",
+				"ant"
+			],
+			[
+				"Queen",
+				"QueenAnt"
+			],
+			[
+				"imp",
+				"imp_count"
+			],
+			[
+				"colo",
+				"colony"
+			],
+			[
+				"Ant",
+				"AntColony"
+			],
+			[
+				"scu",
+				"ScubaThrower"
+			],
+			[
+				"Throw",
+				"ThrowerAnt"
+			],
+			[
+				"cur",
+				"cur_place"
+			],
+			[
+				"insec",
+				"insects_shot_weakening"
+			],
+			[
+				"rand",
+				"random_or_none"
+			],
+			[
+				"ent",
+				"entrance"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"can",
+				"can_contain"
+			],
+			[
+				"blocks",
+				"blocks_path"
+			],
+			[
+				"redu",
+				"reduce_armor"
+			],
+			[
+				"red",
+				"reduce_armor"
+			],
+			[
+				"water",
+				"watersafe"
+			],
+			[
+				"addi",
+				"add_insect"
+			],
+			[
+				"sum",
+				"sum_coins"
+			],
+			[
+				"make",
+				"make_change"
+			],
+			[
+				"food",
+				"food_cost"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"memo",
+				"memoize"
+			],
+			[
+				"st",
+				"stock"
+			],
+			[
+				"make_",
+				"make_withdraw"
+			],
+			[
+				"fun",
+				"funds"
+			],
+			[
+				"In",
+				"Insufficient"
+			],
+			[
+				"a",
+				"attempts"
+			],
+			[
+				"resta",
+				"restaurant_location"
+			],
+			[
+				"res",
+				"restauraunts"
+			],
+			[
+				"user",
+				"user_reviews"
+			],
+			[
+				"user_revi",
+				"user_reviewed_restaurants"
+			],
+			[
+				"word",
+				"word_list"
+			],
+			[
+				"wor",
+				"word_list"
+			],
+			[
+				"wod",
+				"word_list"
+			],
+			[
+				"feat",
+				"feature_functions"
+			],
+			[
+				"fea",
+				"feature_functions"
+			],
+			[
+				"fe",
+				"feature_functions"
+			],
+			[
+				"review",
+				"reviewed"
+			],
+			[
+				"fin",
+				"find_predictor"
+			],
+			[
+				"gro",
+				"group_by_centroid"
+			],
+			[
+				"gr",
+				"group_by_centroid"
+			],
+			[
+				"rest",
+				"restaurant_location"
+			],
+			[
+				"grou",
+				"group_by_first"
+			],
+			[
+				"cent",
+				"centroids"
+			],
+			[
+				"revi",
+				"review_rating"
+			],
+			[
+				"cri",
+				"crit_t"
+			],
+			[
+				"right",
+				"righti"
+			],
+			[
+				"left",
+				"lefti"
+			],
+			[
+				"righ",
+				"righti"
+			],
+			[
+				"lef",
+				"lefti"
+			],
+			[
+				"c",
+				"criticalt"
+			],
+			[
+				"in",
+				"interval"
+			],
+			[
+				"crit",
+				"criticalt"
+			],
+			[
+				"add",
+				"add_interval"
+			],
+			[
+				"mul",
+				"mul_interval"
+			],
+			[
+				"upp",
+				"upper_bound"
+			],
+			[
+				"lowe",
+				"lower_bound"
+			],
+			[
+				"u",
+				"upper_bound"
+			],
+			[
+				"low",
+				"lower_bound"
+			],
+			[
+				"prin",
+				"prinStat"
+			],
+			[
+				"tow",
+				"towers_of_hanoi"
+			],
+			[
+				"len",
+				"len2"
+			],
+			[
+				"lst",
+				"lst2"
+			],
+			[
+				"l",
+				"len2"
+			],
+			[
+				"ls",
+				"lst2"
+			],
+			[
+				"rem",
+				"removeGreatestPowerOf2"
+			],
+			[
+				"repeate",
+				"repeated_apply"
+			],
+			[
+				"count",
+				"count_change"
+			],
+			[
+				"geo",
+				"geo_sum"
+			],
+			[
+				"cycle",
+				"cycle_apply"
+			],
+			[
+				"from",
+				"from_goal"
+			],
+			[
+				"num",
+				"num_rolls"
+			],
+			[
+				"dice",
+				"dice_from_spread"
+			],
+			[
+				"prime",
+				"prime_strategy"
+			],
+			[
+				"prim",
+				"prime_strategy"
+			],
+			[
+				"score",
+				"score_difference"
+			],
+			[
+				"bacon",
+				"bacon_strategy"
+			],
+			[
+				"pos",
+				"pos_prime"
+			],
+			[
+				"oppo",
+				"opponent_score"
+			],
+			[
+				"Bacon",
+				"bacon_strategy"
+			],
+			[
+				"max",
+				"max_digit"
+			],
+			[
+				"ave",
+				"ave_fun"
+			],
+			[
+				"stra",
+				"strategy0"
+			],
+			[
+				"op",
+				"op_sco"
+			],
+			[
+				"sele",
+				"select_dice"
+			],
+			[
+				"who",
+				"who"
+			],
+			[
+				"take",
+				"take_turn"
+			],
+			[
+				"six",
+				"six_sided"
+			],
+			[
+				"opp",
+				"opponent_score"
+			],
+			[
+				"roll",
+				"roll_dice"
+			],
+			[
+				"power",
+				"power_of_two"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"n",
+				"n"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "men",
+		"selected_items":
+		[
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"color scheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"set synta py",
+				"Set Syntax: Python"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set sche",
+				"Set Syntax: Scheme"
+			],
+			[
+				"scheme",
+				"Set Syntax: Scheme"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"tab ",
+				"View: Toggle Tabs"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax lis",
+				"Set Syntax: Lisp"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ss pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"restart",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"pacoa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"next([1,2,3,4,5])",
+			"5",
+			"fib_tree(3)",
+			"python",
+			"g(4)",
+			"python",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/QUIZ/quiz03/quiz03.scm",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab10/cs61a_world.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab10/adventure.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw07/hw07.scm",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw07/ok",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/examples/scalc/buffer.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/examples/scalc/scalc.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab09/lab09.scm",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/hal_000/Downloads/hw07.zip",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/scheme",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/ants/ants.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab06/lab06_extra.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab04/lab04_extra.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab04/lab04.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab06/lab06.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab05/lab05_extra.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab05/lab05.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw06/hw06.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab08/lab08.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/Example",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/GlassIt/glassit.sublime-settings",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/User/glassit.sublime-settings",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/GlassIt/Default (Windows).sublime-keymap",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/hal_000/Downloads/ants.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab07/lab07.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/ants/tests/q1.py",
+		"/C/Users/hal_000/Documents/My Games/dawn of war ii - retribution/Settings/_keydefaults.lua",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/ants/ucb.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/sw/1.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/QUIZ/quiz02/quiz02.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SublimeTeX",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw05/hw05.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/ants/ants_gui.py",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/hal_000/Documents/Fonts/List of Fonts.txt",
+		"/C/Users/hal_000/Downloads/Inconsolata.otf",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/README.md",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/Seti.sublime-theme",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/sw/sw.py",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/hal_000/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/maps/recommend.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/maps/abstractions.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/maps/utils.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw04/hw04.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LectureFiles/11.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/maps/users/one_cluster.dat",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw03/hw03.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw02/hw02.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/hog/hog.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab03/lab03_extra.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab2/lab02_extra.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab03/lab03.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/contest_strat/fstrat.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/hog/dice.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/hog/shitstorm.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/Backup/hog/hog.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/Backup/hog/.ok_messages",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/Backup/hog/.ok_refresh",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Projects/hog/hog_gui.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/QUIZ/quiz01/quiz01.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw1/hw01.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw1/hw1.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/LAB/lab2/lab02.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/HW/hw1.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/hw1.py",
+		"/C/Users/hal_000/Documents/School/Berkeley/SP15/CS61A/Test.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"next",
+			"as-list",
+			"right",
+			"left",
+			"right",
+			"left",
+			"Mobile",
+			"len",
+			"s",
+			"time_digesting",
+			"digesting",
+			"tunnel",
+			"next_place",
+			"next",
+			"damage",
+			"cur_place",
+			"beePlace",
+			"other",
+			"overdrawn",
+			"toggle",
+			"trans",
+			"return",
+			"attempts",
+			"Attempts",
+			"attempts",
+			"nonlocal",
+			"modified_arg",
+			"food",
+			":\n",
+			"self.price",
+			":\n",
+			"ratings",
+			"criticalf",
+			"criticalt",
+			"== ",
+			"cur",
+			"est_two",
+			"nearest_two",
+			"2pow",
+			"frac",
+			"i",
+			"count"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "questions.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
